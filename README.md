@@ -23,7 +23,7 @@ A complete C#/.NET console application for managing a library book list with ful
   ## Installation
 
   ### Clone the Repo:
-- git clone https://github.com/yourusername/BookManagementSystem.git
+- git clone https://github.com/rinaejustin963/BookManagementSystem.git
 - cd BookManagementSystem
 
   ### Restore NuGet packages:
