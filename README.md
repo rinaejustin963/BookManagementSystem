@@ -47,8 +47,8 @@ A complete C#/.NET console application for managing a library book list with ful
   - dotnet test --list-tests
  
   ### Preview:
-  - <img width="610" height="510" alt="Screenshot 2025-07-28 002402" src="https://github.com/user-attachments/assets/73daff2f-52cb-4354-beb1-e61b354d65d6" />
   - <img width="410" height="224" alt="Screenshot 2025-07-28 002203" src="https://github.com/user-attachments/assets/d8b006ca-3c46-4f45-8f77-41012985f364" />
+  - <img width="610" height="510" alt="Screenshot 2025-07-28 002402" src="https://github.com/user-attachments/assets/73daff2f-52cb-4354-beb1-e61b354d65d6" />
   - <img width="760" height="290" alt="image" src="https://github.com/user-attachments/assets/d4a426a4-fa01-49ab-8e6b-28cb094d4d60" />
 
 
