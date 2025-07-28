@@ -26,6 +26,11 @@ A complete C#/.NET console application for managing a library book list with ful
 - git clone https://github.com/rinaejustin963/BookManagementSystem.git
 - cd BookManagementSystem
 
+  ### Changes in program.cs:
+  - In the program.cs file, change the file directory that points to your local
+    <img width="822" height="175" alt="image" src="https://github.com/user-attachments/assets/f8c59ff6-e65c-4343-b631-602de6ff757c" />
+
+
   ### Restore NuGet packages:
   - dotnet restore
 
